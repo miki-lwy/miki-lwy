@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miki-lwy
-- 👀 I’m interested in Data Science and Data Engineering
-- 🌱 I’m currently learning R and Scala
+- 👀 I’m interested in Big Data and Data Engineering
+- 🌱 I’m currently learning Docker, Airflow and Scala
 - 💞️ I’m looking to collaborate on projects involving insights synthesis and big data
 - 📫 How to reach me ...
 
